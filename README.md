@@ -1,16 +1,13 @@
-<p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" />
-</p>
+
 
 # Professional Web & Mobile Developer
 
 I'd like to tell you a little about myself. I have been working in my specialty for 9 years.
 I'm a developer who knows the value of time, works very hard, and always provides work on time, and prove myself with great skills. I always think that when both clients and developers trust each other, the project can succeed, and also think that if an excellent developer, has to own wide-knowledge.
-My skills will be updated go on and I will try to prepare myself to become a top developer continuously.
-
-<p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--hjico-IG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNaereen%26theme%3Dblue-green" />
+My skills will be updated go on and I will try to prepare myself to become a top developer continuously. <p align="center" width="100">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752" />
 </p>
+
 👯 I’m looking to collaborate on Web & Mobile development.
 
 ## Work Experience
@@ -38,3 +35,7 @@ CodeIgniter, CakePHP, Symfony, Zend), Python(Django)
 - REST API, Apollo GraphQL, Json, and Soap.
 - Authentication: Oauth, Oauth2, 2FA, Hawk, AWS Signature, Beta
 - GIT: GitHub, Bitbucket
+
+<p align="center">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--hjico-IG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNaereen%26theme%3Dblue-green" />
+</p>
