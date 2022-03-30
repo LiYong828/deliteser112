@@ -28,7 +28,9 @@ My skills will be updated go on and I will try to prepare myself to become a top
 
 ## Skills
 ✅ Mobile App: React Native, Ionic, Flutter, IOS, Android.
+
 ✅ Backend: Node.js, PHP(Core PHP and its framework such as Laravel,
+
 CodeIgniter, CakePHP, Symfony, Zend), Python(Django)
 ✅ Frontend: React.js, Angular, Vue.js, jQuery, Vanilla JS, ES6, ES7...
 ✅ DB technology: MySQL, PostgreSQL, NoSQL, MongoDB, MSSql
