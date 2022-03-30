@@ -13,13 +13,13 @@ My skills will be updated go on and I will try to prepare myself to become a top
 
 ## Work Experience
 #### *KPMG | Senior Frontend | SEO | Full-Stack developer*
-2010–2013
+2012–2013
 - Built 300+ websites using Laravel, PHP, Python, Django, Yii, CodeIgniter, MySQL, PostgreSQL, etc.
 - Develop the Mobile Application using Android/iOS, React Native, Flutter, Ionic.
 - Built a lot of admin backends of Mobile with Yii, Laravel, etc.
 
 #### *MEVN/MEAN/MERN/LAMP Stack Developer*
-2013–2019
+2013–2015
 - Built a lot of websites using React, Vue, Angular, Node, Express, MongoDB, MySQL, PostgreSQL, etc.
 - Converted all sites to Linux, Apache, MySQL, and PHP.
 - Became sole IT person for the company handled all tech support for 6 locations and over 50 employees
@@ -27,15 +27,25 @@ My skills will be updated go on and I will try to prepare myself to become a top
 - Worked with Active Directory and Windows Server.
 
 ## Skills
-- Mobile App: React Native, Ionic, Flutter, IOS, Android.
-- Backend: Node.js, PHP(Core PHP and its framework such as Laravel,
+✅ Mobile App: React Native, Ionic, Flutter, IOS, Android.
+✅ Backend: Node.js, PHP(Core PHP and its framework such as Laravel,
 CodeIgniter, CakePHP, Symfony, Zend), Python(Django)
-- Frontend: React.js, Angular, Vue.js, jQuery, Vanilla JS, ES6, ES7...
-- DB technology: MySQL, PostgreSQL, NoSQL, MongoDB, MSSql
-- Linux, Ubuntu, AWS/Azure, and Strong Server knowledge
-- REST API, Apollo GraphQL, Json, and Soap.
-- Authentication: Oauth, Oauth2, 2FA, Hawk, AWS Signature, Beta
-- GIT: GitHub, Bitbucket
+✅ Frontend: React.js, Angular, Vue.js, jQuery, Vanilla JS, ES6, ES7...
+✅ DB technology: MySQL, PostgreSQL, NoSQL, MongoDB, MSSql
+✅ Linux, Ubuntu, AWS/Azure, and Strong Server knowledge
+✅ REST API, Apollo GraphQL, Json, and Soap.
+✅ Authentication: Oauth, Oauth2, 2FA, Hawk, AWS Signature, Beta
+✅ GIT: GitHub, Bitbucket
+✅ Custom Blockchain Development 
+✅ Smart Contracts Development 
+✅ Dapps Development 
+✅ Hyperledger & Multichain Development
+✅ Custom Cryptocurrency Development
+✅ Cryptocurrency Wallet and Exchange Applications 
+✅ Private Blockchain Development 
+✅ Blockchain Consulting 
+✅ Ongoing Blockchain Development Support and Maintenance 
+
 
 <p align="center">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--hjico-IG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNaereen%26theme%3Dblue-green" />
