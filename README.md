@@ -13,13 +13,13 @@ My skills will be updated go on and I will try to prepare myself to become a top
 
 ## Work Experience
 #### *KPMG | Senior Frontend | SEO | Full-Stack developer*
-2012–2013
+2015–2018
 - Built 300+ websites using Laravel, PHP, Python, Django, Yii, CodeIgniter, MySQL, PostgreSQL, etc.
 - Develop the Mobile Application using Android/iOS, React Native, Flutter, Ionic.
 - Built a lot of admin backends of Mobile with Yii, Laravel, etc.
 
 #### *MEVN/MEAN/MERN/LAMP Stack Developer*
-2013–2015
+2019–2021
 - Built a lot of websites using React, Vue, Angular, Node, Express, MongoDB, MySQL, PostgreSQL, etc.
 - Converted all sites to Linux, Apache, MySQL, and PHP.
 - Became sole IT person for the company handled all tech support for 6 locations and over 50 employees
