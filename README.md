@@ -27,39 +27,17 @@ My skills will be updated go on and I will try to prepare myself to become a top
 - Worked with Active Directory and Windows Server.
 
 ## Skills
-✅ Mobile App: React Native, Ionic, Flutter, IOS, Android.
-
-✅ Backend: Node.js, PHP(Core PHP and its framework such as Laravel,
-CodeIgniter, CakePHP, Symfony, Zend), Python(Django)
-✅ Frontend: React.js, Angular, Vue.js, jQuery, Vanilla JS, ES6, ES7...
-
-✅ DB technology: MySQL, PostgreSQL, NoSQL, MongoDB, MSSql
-
-✅ Linux, Ubuntu, AWS/Azure, and Strong Server knowledge
-
-✅ REST API, Apollo GraphQL, Json, and Soap.
-
-✅ Authentication: Oauth, Oauth2, 2FA, Hawk, AWS Signature, Beta
-
-✅ GIT: GitHub, Bitbucket
-
-✅ Custom Blockchain Development 
-
-✅ Smart Contracts Development 
-
-✅ Dapps Development 
-
-✅ Hyperledger & Multichain Development
-
-✅ Custom Cryptocurrency Development
-
-✅ Cryptocurrency Wallet and Exchange Applications
-
-✅ Private Blockchain Development 
-
-✅ Blockchain Consulting 
-
-✅ Ongoing Blockchain Development Support and Maintenance 
+✪ Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
+✪ DeFi, Staking, Farming, NFT Auctions, NFT MarketPlace, OpenSea, Web3
+✪ Metamask, Trust Wallet, Torus, Binance Wallet
+✪ Mobile App: React Native, Ionic, Flutter, IOS, Android.
+✪ Backend: Node.js, PHP(Core PHP and its framework such as Laravel, CodeIgniter, CakePHP, Symfony, Zend), Python(Django)
+✪ Frontend: React.js, Angular, Vue.js, jQuery, Vanilla JS, ES6, ES7...
+✪ DB technology: MySQL, PostgreSQL, NoSQL, MongoDB, MSSQL
+✪ GIT: GitHub, Bitbucket
+✪ Linux, Ubuntu, AWS/Azure, and Strong Server knowledge
+✪ REST API, Apollo GraphQL, Json, and Soap.
+✪ Authentication: Oauth, Oauth2, 2FA, Hawk, AWS Signature, Beta
 
 
 <p align="center">
