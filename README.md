@@ -50,6 +50,11 @@ My skills will be updated go on and I will try to prepare myself to become a top
 ✪ Authentication: Oauth, Oauth2, 2FA, Hawk, AWS Signature, Beta
 
 
-<p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--hjico-IG--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DNaereen%26theme%3Dblue-green" />
-</p>
+### :fire: Github Stats
+
+<div align="center">
+  <a href="https://github.com/itopgun">
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ITopGun&show_icons=true&theme=white&include_all_commits=true&count_private=true" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITopGun&layout=compact&langs_count=7&theme=white" />
+  </a>
+</div>
