@@ -58,3 +58,9 @@ My skills will be updated go on and I will try to prepare myself to become a top
    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deliteser112&layout=compact&langs_count=7&theme=white" />
   </a>
 </div>
+
+<div align="center">
+ <a href="https://github.com/deliteser112">
+  <img src="https://github-profile-trophy.vercel.app/?username=deliteser112&column=8&theme=white&no-frame=true&margin-w=3&margin-h=5"/>
+ </a>
+</div>
