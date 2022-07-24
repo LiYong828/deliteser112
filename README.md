@@ -27,9 +27,8 @@ My skills will be updated go on and I will try to prepare myself to become a top
 - Worked with Active Directory and Windows Server.
 
 ## Skills
-✪ Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
-
-✪ DeFi, Staking, Farming, NFT Auctions, NFT MarketPlace, OpenSea, Web3 
+- Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
+- DeFi, Staking, Farming, NFT Auctions, NFT MarketPlace, OpenSea, Web3 
 
 ✪ Metamask, Trust Wallet, Torus, Binance Wallet 
 
