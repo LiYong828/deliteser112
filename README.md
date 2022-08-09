@@ -10,8 +10,10 @@ My skills will be updated go on and I will try to prepare myself to become a top
 
 
 👯 I’m looking to collaborate on Web & Mobile development.
+### 🤝 Connect with me:
 - 🎭 Skype: https://join.skype.com/invite/Wf4GT5LeBeZE
 - 🎫 Telegram: https://t.me/superdev0829
+- 📧 Email: deliteser112@gmail.com
 
 ## Work Experience
 #### *KPMG | Senior Frontend | SEO | Full-Stack developer*
