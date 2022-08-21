@@ -6,6 +6,8 @@ I'd like to tell you a little about myself. I have been working in my specialty 
 I'm a developer who knows the value of time, works very hard, and always provides work on time, and prove myself with great skills. I always think that when both clients and developers trust each other, the project can succeed, and also think that if an excellent developer, has to own wide-knowledge.
 My skills will be updated go on and I will try to prepare myself to become a top developer continuously. 
 
+I'm ready to handle any product development combining extensive and I'm up to date on all modern development trends. I pride myself on my unique skills which is why I'll do my best so hard to work for my clients.
+
 
 👯 I’m looking to collaborate on Web & Mobile development.
 ### 🤝 Connect with me:
